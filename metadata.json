@@ -1,0 +1,6 @@
+{
+  "name": "Rhythm",
+  "description": "A premium, minimalist habit tracker with zero-friction logging, smart streak protection, and deep analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
